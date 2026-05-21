@@ -15,6 +15,7 @@ A Flask-based web application that runs on a Raspberry Pi to record and display 
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Running the App](#running-the-app)
+  - [Contributing](#contributing)
 
 ---
 
@@ -82,7 +83,7 @@ Start the application (accessible on all network interfaces):
 flask run --host=0.0.0.0
 Then open a browser on any device on the same network and navigate to http://<raspberry-pi-ip>:5000.
 ```
-Contributing
+## Contributing
 Contributions are welcome. If you have a suggestion or improvement:
 
 - Fork the project
